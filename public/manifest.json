@@ -1,0 +1,23 @@
+{
+  "name": "hello_pwa",
+  "short_name": "hp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3f51b5",
+  "description": "Hello PWA",
+  "icons": [
+    {
+      "src": "./favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
